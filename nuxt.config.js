@@ -7,7 +7,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'mcmom',
+    title: 'minecraft.mom',
     htmlAttrs: {
       lang: 'en'
     },
