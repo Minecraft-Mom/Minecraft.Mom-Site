@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="480" viewBox="0 0 560 480">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: red;
+      }
+    </style>
+  </defs>
+  <path id="Color_Fill_3" data-name="Color Fill 3" class="cls-1" d="M120,80h40v40H120V80ZM80,120h40v40H80V120Z"/>
+  <path id="Color_Fill_2" data-name="Color Fill 2" class="cls-2" d="M80,40H240V80h80V40H480V80h40V240H480v40H440v40H400v40H360v40H320v40H240V400H200V360H160V320H120V280H80V240H40V80H80V40Zm40,40v40H80v40h40V120h40V80H120Z"/>
+  <path id="Color_Fill_1" data-name="Color Fill 1" class="cls-3" d="M80,0H240V40H80V0ZM320,0H480V40H320V0ZM40,40H80V80H40V40Zm200,0h80V80H240V40Zm240,0h40V80H480V40ZM0,80H40V240H0V80Zm520,0h40V240H520V80ZM40,240H80v40H40V240Zm440,0h40v40H480V240ZM80,280h40v40H80V280Zm360,0h40v40H440V280ZM120,320h40v40H120V320Zm280,0h40v40H400V320ZM160,360h40v40H160V360Zm200,0h40v40H360V360ZM200,400h40v40H200V400Zm120,0h40v40H320V400Zm-80,40h80v40H240V440Z"/>
+</svg>
